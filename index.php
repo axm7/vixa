@@ -7,6 +7,7 @@ include 'core/header.php';
 <div class="container">
 	<div class="row">
 
+<<<<<<< Updated upstream
 		<!-- NAV -->
 		<?php include 'nav.php'; ?> 
 
@@ -43,3 +44,10 @@ include 'core/header.php';
 	</div>
 
 <?php include 'footer.php'; ?>
+=======
+	<p>SIEMA ; D</p>
+
+	I am going to sleep now.
+</body>
+</html>
+>>>>>>> Stashed changes
